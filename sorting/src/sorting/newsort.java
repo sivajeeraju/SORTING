@@ -1,6 +1,8 @@
 package sorting;
+
 import java.util.Scanner;
 public class newsort {
+	
 public static void main(String[] args) 
 {
     int n, temp;
